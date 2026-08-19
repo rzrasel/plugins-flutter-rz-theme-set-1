@@ -23,11 +23,15 @@ This package helps maintain a consistent design system across Flutter applicatio
 Add the dependency to your `pubspec.yaml`:
 
 ```yaml
-Customize Toolbar…
+intl: ^0.20.3
 ```
 
 ```yaml
-intl: ^0.20.3
+dependencies:
+  rz_theme_set_1:
+    git:
+      url: https://github.com/rzrasel/plugins-flutter-rz-theme-set-1.git
+      ref: vref-1.0.15
 ```
 
 ```bash
