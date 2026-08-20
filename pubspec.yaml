@@ -1,7 +1,8 @@
 name: rz_theme_set_1
 description: "A simple Flutter plugin for managing and applying reusable app themes with centralized configuration"
-version: 0.0.1
-homepage:
+version: 1.0.0
+repository: https://github.com/rzrasel/plugins-flutter-rz-theme-set-1
+homepage: https://github.com/rzrasel/plugins-flutter-rz-theme-set-1
 
 environment:
   sdk: ^3.10.4
