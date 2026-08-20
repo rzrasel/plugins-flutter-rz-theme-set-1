@@ -1,6 +1,6 @@
 //
-export 'src/strings/image_string.dart';
-export 'src/strings/text_string.dart';
+export 'src/resource/image_string.dart';
+export 'src/resource/text_string.dart';
 // Themes/Color
 export 'src/theme/color/palette/rz_color_palette.dart';
 
